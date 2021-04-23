@@ -1,16 +1,29 @@
-# calculator
+# Calculator
 
-A new Flutter project.
+Um pequeno projeto em Flutter que se assemelha a uma calculadora simples de celular
 
-## Getting Started
+## Descrição
 
-This project is a starting point for a Flutter application.
+### Tela da Calculadora
+Aqui mostramos a calculadora e suas funcões. São funcões basicas
 
-A few resources to get you started if this is your first Flutter project:
+<table>
+  <tr>
+    <td>Tela sem nada digitado</td>
+    <td>Tela com algo digitado</td>
+  </tr>
+  <tr>
+    <td valing="top"><img src="./images/calculadora.jpeg" height="600"></td>
+    <td valing="top"><img src="./images/calculadora123.jpeg" height="600"></td>
+  </tr>
+</table>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Guia
+```
+git clone https://github.com/alberesdejesus/Calculator-Flutter.git
+cd Calculator-Flutter
+flutter packages get
+flutter run
+```
+Coloque no seu emulador ou Smartphone e aproveite!! 
